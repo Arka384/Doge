@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\doge\doge\source.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'const float'
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\doge\doge\source.cpp(64): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\doge\doge\source.cpp(65): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\doge\doge\source.cpp(91): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\doge\doge\source.cpp(112): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\doge\doge\source.cpp(113): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\doge\doge\source.cpp(114): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\arkad\documents\deadshot files\c++ programs\sfml\tests\doge\doge\source.cpp(115): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  Doge.vcxproj -> C:\Users\arkad\Documents\DEADSHOT FILES\C++ Programs\SFML\TESTS\Doge\Debug\Doge.exe
